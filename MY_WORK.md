@@ -29,11 +29,11 @@
 
 | Field | Your Answer |
 |-------|-------------|
-| **Full Name** | [Write your full name here] |
-| **Student ID** | [Write your student ID here] |
-| **University Email** | [yourid]@std.psau.edu.sa |
-| **GitHub Username** | [your-github-username] |
-| **Repository Link** | [Paste your repository link here] |
+| **Full Name** | [joud khalid Althobaiti] |
+| **Student ID** | [446052015] |
+| **University Email** | [446052015]@std.psau.edu.sa |
+| **GitHub Username** | [joudk8] |
+| **Repository Link** | [https://github.com/joudk8/OS-Assignment1-joud-khalid] |
  
 ---
 
@@ -129,43 +129,45 @@
 
 ## Your Development Log
 
-### Entry 1 - [Date and Time]
+### Entry 1 - [october 3,2026 , 10:00 AM]
 **What I did**:
-
+set up github repsitory and configured git for the assigment
 **Details**:
-
+set my student id in SchedulerSimulation.java.
+configured my git name and university email
+committed and pushed the student id change to github
 **Challenges**:
-
+ i had trouble making the commit becuse my git name was not configured
 **Solution**:
-
+ i configured my git name and university email , then committed and syncd the changes successfulyy
 **Time spent**:
-
+1 hour
 ---
 
-### Entry 2 - [Date and Time]
+### Entry 2 - [ October 7 , 2026  ,7:55 AM]
 **What I did**:
-
+completed feature 1 :process priority
 **Details**:
-
+added random priorities (1-10) displayed them in the ready  queue , tested the code and pushed the commit
 **Challenges**:
-
+had difficulty locating the corrct method and displaying the priority
 **Solution**:
-
+added getPriority(), corrected the print statement and tested successfully
 **Time spent**:
-
+45 minutes
 ---
 
-### Entry 3 - [Date and Time]
+### Entry 3 - [October 8, 2026 ,7:30]
 **What I did**:
-
+added the context switch counter
 **Details**:
-
+counted cpu executions and displayed the total 34
 **Challenges**:
-
+finding the correct place for the counter
 **Solution**:
-
+added it inside the scheduling loop and tested it
 **Time spent**:
-
+25 minutes
 ---
 
 ### Entry 4 - [Date and Time]
